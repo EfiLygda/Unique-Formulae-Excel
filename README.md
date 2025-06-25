@@ -18,13 +18,13 @@ openpyxl==3.1.2
 
 **Step 3:** For Windows users, run the command as:
 ```
-py "/path/to/script/Unique_Formulae_Excel.py" -f Workbook.xlsx
+py /path/to/script/Unique_Formulae_Excel.py -f Workbook.xlsx
 ```
 The formulae will be printed in a new line each.
 
 In case of wanting to add a separator to the names the use the --sep argument, as below: 
 ```
-py "/path/to/script/Unique_Formulae_Excel.py" -f Workbook.xlsx -s ", "
+py /path/to/script/Unique_Formulae_Excel.py -f Workbook.xlsx -s ", "
 ```
 
 
